@@ -1,5 +1,4 @@
--- Base de datos Veterinaria_Pro
--- Ejecutar en MySQL/MariaDB (phpMyAdmin o consola)
+
 
 CREATE DATABASE IF NOT EXISTS Veterinaria_Pro
   CHARACTER SET utf8mb4
