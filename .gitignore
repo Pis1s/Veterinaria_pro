@@ -1,0 +1,8 @@
+# Configuración local (contraseña de MySQL)
+backend/config.php
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/launch.json
